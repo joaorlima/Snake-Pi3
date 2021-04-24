@@ -1,10 +1,3 @@
-/*
- * Disciplina: Experiência Criativa - Navegando na Computação
- * Aluno; João Pedro Lima
- */
-
-// 30, 30
-// Valor de Cada Quadrado: 20
 ArrayList<Integer> x = new ArrayList<Integer>(), y = new ArrayList<Integer>();
 int dir = 2;
 int[] dx = {0, 0, 1, -1}; // Direita, Esquerda
